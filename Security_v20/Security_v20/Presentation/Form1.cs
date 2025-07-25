@@ -11,6 +11,7 @@ using Security_v20.Properties;
 using Security_v20.DataAccess.Models;
 using Security_v20.DataAccess.Repositories;
 using Security_v20.ApplicationLogic;
+using Encuesta.Presentation;
 
 
 namespace Security_v20
@@ -20,6 +21,7 @@ namespace Security_v20
         public Form1()
         {
             InitializeComponent();
+            this.btnRegistrarDesuso.Click += new System.EventHandler(this.btnRegistrarDesuso_Click);
         }
 
         private void btnregistrar_Click(object sender, EventArgs e)
@@ -165,6 +167,12 @@ namespace Security_v20
         private void lblnotanoche_Click(object sender, EventArgs e)
         {
 
+        }
+
+        private void btnRegistrarDesuso_Click(object sender, EventArgs e)
+        {
+            var formularioDesuso = new FormDesusoEquipo();
+            formularioDesuso.ShowDialog(); // O Show() si no quieres bloquear la ventana principal
         }
     }
 }

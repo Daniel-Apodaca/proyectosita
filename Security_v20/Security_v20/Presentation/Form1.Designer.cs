@@ -33,6 +33,7 @@ namespace Security_v20
         private void InitializeComponent()
         {
             this.securitybox = new System.Windows.Forms.GroupBox();
+            this.BuscarEmp = new System.Windows.Forms.Button();
             this.lblelevacion = new System.Windows.Forms.Label();
             this.pictureBoxelevacion = new System.Windows.Forms.PictureBox();
             this.datetimepicker1 = new System.Windows.Forms.DateTimePicker();
@@ -54,13 +55,14 @@ namespace Security_v20
             this.lbldept = new System.Windows.Forms.Label();
             this.lblnumemp = new System.Windows.Forms.Label();
             this.lblemp = new System.Windows.Forms.Label();
-            this.BuscarEmp = new System.Windows.Forms.Button();
+            this.btnRegistrarDesuso = new System.Windows.Forms.Button();
             this.securitybox.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBoxelevacion)).BeginInit();
             this.SuspendLayout();
             // 
             // securitybox
             // 
+            this.securitybox.Controls.Add(this.btnRegistrarDesuso);
             this.securitybox.Controls.Add(this.BuscarEmp);
             this.securitybox.Controls.Add(this.lblelevacion);
             this.securitybox.Controls.Add(this.pictureBoxelevacion);
@@ -90,6 +92,19 @@ namespace Security_v20
             this.securitybox.TabIndex = 0;
             this.securitybox.TabStop = false;
             this.securitybox.Text = "Control de Seguridad";
+            // 
+            // BuscarEmp
+            // 
+            this.BuscarEmp.BackColor = System.Drawing.SystemColors.ControlDarkDark;
+            this.BuscarEmp.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
+            this.BuscarEmp.ForeColor = System.Drawing.SystemColors.ButtonHighlight;
+            this.BuscarEmp.Location = new System.Drawing.Point(329, 30);
+            this.BuscarEmp.Name = "BuscarEmp";
+            this.BuscarEmp.Size = new System.Drawing.Size(131, 30);
+            this.BuscarEmp.TabIndex = 17;
+            this.BuscarEmp.Text = "Buscar";
+            this.BuscarEmp.UseVisualStyleBackColor = false;
+            this.BuscarEmp.Click += new System.EventHandler(this.BuscarEmp_Click);
             // 
             // lblelevacion
             // 
@@ -164,7 +179,7 @@ namespace Security_v20
             this.btnlimpiar.BackColor = System.Drawing.SystemColors.ControlDarkDark;
             this.btnlimpiar.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
             this.btnlimpiar.ForeColor = System.Drawing.SystemColors.ButtonHighlight;
-            this.btnlimpiar.Location = new System.Drawing.Point(289, 501);
+            this.btnlimpiar.Location = new System.Drawing.Point(374, 503);
             this.btnlimpiar.Name = "btnlimpiar";
             this.btnlimpiar.Size = new System.Drawing.Size(75, 36);
             this.btnlimpiar.TabIndex = 10;
@@ -307,18 +322,17 @@ namespace Security_v20
             this.lblemp.TabIndex = 0;
             this.lblemp.Text = "Empleado:";
             // 
-            // BuscarEmp
+            // btnRegistrarDesuso
             // 
-            this.BuscarEmp.BackColor = System.Drawing.SystemColors.ControlDarkDark;
-            this.BuscarEmp.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
-            this.BuscarEmp.ForeColor = System.Drawing.SystemColors.ButtonHighlight;
-            this.BuscarEmp.Location = new System.Drawing.Point(329, 30);
-            this.BuscarEmp.Name = "BuscarEmp";
-            this.BuscarEmp.Size = new System.Drawing.Size(131, 30);
-            this.BuscarEmp.TabIndex = 17;
-            this.BuscarEmp.Text = "Buscar";
-            this.BuscarEmp.UseVisualStyleBackColor = false;
-            this.BuscarEmp.Click += new System.EventHandler(this.BuscarEmp_Click);
+            this.btnRegistrarDesuso.BackColor = System.Drawing.SystemColors.ControlDarkDark;
+            this.btnRegistrarDesuso.ForeColor = System.Drawing.SystemColors.ButtonHighlight;
+            this.btnRegistrarDesuso.Location = new System.Drawing.Point(182, 502);
+            this.btnRegistrarDesuso.Name = "btnRegistrarDesuso";
+            this.btnRegistrarDesuso.Size = new System.Drawing.Size(171, 37);
+            this.btnRegistrarDesuso.TabIndex = 18;
+            this.btnRegistrarDesuso.Text = "Registrar Des uso ";
+            this.btnRegistrarDesuso.UseVisualStyleBackColor = false;
+            this.btnRegistrarDesuso.Click += new System.EventHandler(this.btnRegistrarDesuso_Click);
             // 
             // Form1
             // 
@@ -362,6 +376,7 @@ namespace Security_v20
         private System.Windows.Forms.Label lblelevacion;
         private System.Windows.Forms.Button BuscarEmp;
         private System.Windows.Forms.DateTimePicker datetimepicker1;
+        private System.Windows.Forms.Button btnRegistrarDesuso;
 
         public EventHandler pictureBoxelevacion_Click { get; private set; }
     }

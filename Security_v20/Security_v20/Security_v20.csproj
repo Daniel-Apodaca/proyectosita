@@ -46,9 +46,14 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="ApplicationLogic\Managers\EmpleadoManager.cs" />
+    <Compile Include="ApplicationLogic\Managers\EquipamientoManager.cs" />
     <Compile Include="ApplicationLogic\RegistroEmpleadoService.cs" />
+    <Compile Include="ApplicationLogic\usoEquipamientoService.cs" />
     <Compile Include="DataAccess\Conexion.cs" />
     <Compile Include="DataAccess\Models\RegistroEmpleado.cs" />
+    <Compile Include="DataAccess\Models\usoEquipamiento.cs" />
+    <Compile Include="DataAccess\Repositories\DataAccessRepositories.cs" />
     <Compile Include="DataAccess\Repositories\RegistroEmpleadoRepository.cs" />
     <Compile Include="Presentation\Form1.cs">
       <SubType>Form</SubType>
@@ -56,10 +61,19 @@
     <Compile Include="Presentation\Form1.Designer.cs">
       <DependentUpon>Form1.cs</DependentUpon>
     </Compile>
+    <Compile Include="Presentation\FormDesusoEquipo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentation\FormDesusoEquipo.Designer.cs">
+      <DependentUpon>FormDesusoEquipo.cs</DependentUpon>
+    </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="Presentation\Form1.resx">
       <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation\FormDesusoEquipo.resx">
+      <DependentUpon>FormDesusoEquipo.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <SubType>Designer</SubType>

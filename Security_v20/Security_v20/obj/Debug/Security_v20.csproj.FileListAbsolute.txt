@@ -19,3 +19,14 @@ C:\Users\Vampel\source\repos\Security_v20\Security_v20\Security_v20\bin\Debug\En
 C:\Users\Vampel\source\repos\Security_v20\Security_v20\Security_v20\obj\Debug\Encuesta.exe
 C:\Users\Vampel\source\repos\Security_v20\Security_v20\Security_v20\obj\Debug\Encuesta.pdb
 C:\Users\Vampel\source\repos\Security_v20\Security_v20\Security_v20\obj\Debug\Encuesta.exe.config
+C:\Users\01\Desktop\repos\proyectosita\Security_v20\Security_v20\bin\Debug\Encuesta.exe.config
+C:\Users\01\Desktop\repos\proyectosita\Security_v20\Security_v20\bin\Debug\Encuesta.exe
+C:\Users\01\Desktop\repos\proyectosita\Security_v20\Security_v20\bin\Debug\Encuesta.pdb
+C:\Users\01\Desktop\repos\proyectosita\Security_v20\Security_v20\obj\Debug\Security_v20.csproj.AssemblyReference.cache
+C:\Users\01\Desktop\repos\proyectosita\Security_v20\Security_v20\obj\Debug\Security_v20.Form1.resources
+C:\Users\01\Desktop\repos\proyectosita\Security_v20\Security_v20\obj\Debug\Encuesta.Properties.Resources.resources
+C:\Users\01\Desktop\repos\proyectosita\Security_v20\Security_v20\obj\Debug\Security_v20.csproj.GenerateResource.cache
+C:\Users\01\Desktop\repos\proyectosita\Security_v20\Security_v20\obj\Debug\Security_v20.csproj.CoreCompileInputs.cache
+C:\Users\01\Desktop\repos\proyectosita\Security_v20\Security_v20\obj\Debug\Encuesta.exe
+C:\Users\01\Desktop\repos\proyectosita\Security_v20\Security_v20\obj\Debug\Encuesta.pdb
+C:\Users\01\Desktop\repos\proyectosita\Security_v20\Security_v20\obj\Debug\Encuesta.Presentation.FormDesusoEquipo.resources

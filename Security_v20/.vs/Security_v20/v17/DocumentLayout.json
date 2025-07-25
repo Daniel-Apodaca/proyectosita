@@ -3,12 +3,44 @@
   "WorkspaceRootPath": "C:\\Users\\01\\Desktop\\repos\\proyectosita\\Security_v20\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{1EE2BFA9-C8A7-4787-A964-83ED79D3E5E4}|Security_v20\\Security_v20.csproj|c:\\users\\01\\desktop\\repos\\proyectosita\\security_v20\\security_v20\\applicationlogic\\usoequipamientoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EE2BFA9-C8A7-4787-A964-83ED79D3E5E4}|Security_v20\\Security_v20.csproj|solutionrelative:security_v20\\applicationlogic\\usoequipamientoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EE2BFA9-C8A7-4787-A964-83ED79D3E5E4}|Security_v20\\Security_v20.csproj|c:\\users\\01\\desktop\\repos\\proyectosita\\security_v20\\security_v20\\dataaccess\\models\\usoequipamiento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EE2BFA9-C8A7-4787-A964-83ED79D3E5E4}|Security_v20\\Security_v20.csproj|solutionrelative:security_v20\\dataaccess\\models\\usoequipamiento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EE2BFA9-C8A7-4787-A964-83ED79D3E5E4}|Security_v20\\Security_v20.csproj|c:\\users\\01\\desktop\\repos\\proyectosita\\security_v20\\security_v20\\dataaccess\\repositories\\registroempleadorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EE2BFA9-C8A7-4787-A964-83ED79D3E5E4}|Security_v20\\Security_v20.csproj|solutionrelative:security_v20\\dataaccess\\repositories\\registroempleadorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{1EE2BFA9-C8A7-4787-A964-83ED79D3E5E4}|Security_v20\\Security_v20.csproj|c:\\users\\01\\desktop\\repos\\proyectosita\\security_v20\\security_v20\\dataaccess\\models\\registroempleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1EE2BFA9-C8A7-4787-A964-83ED79D3E5E4}|Security_v20\\Security_v20.csproj|solutionrelative:security_v20\\dataaccess\\models\\registroempleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1EE2BFA9-C8A7-4787-A964-83ED79D3E5E4}|Security_v20\\Security_v20.csproj|C:\\Users\\01\\Desktop\\repos\\proyectosita\\Security_v20\\security_v20\\applicationlogic\\registroempleadoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1EE2BFA9-C8A7-4787-A964-83ED79D3E5E4}|Security_v20\\Security_v20.csproj|solutionrelative:security_v20\\applicationlogic\\registroempleadoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1EE2BFA9-C8A7-4787-A964-83ED79D3E5E4}|Security_v20\\Security_v20.csproj|c:\\users\\01\\desktop\\repos\\proyectosita\\security_v20\\security_v20\\applicationlogic\\managers\\equipamientomanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EE2BFA9-C8A7-4787-A964-83ED79D3E5E4}|Security_v20\\Security_v20.csproj|solutionrelative:security_v20\\applicationlogic\\managers\\equipamientomanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EE2BFA9-C8A7-4787-A964-83ED79D3E5E4}|Security_v20\\Security_v20.csproj|c:\\users\\01\\desktop\\repos\\proyectosita\\security_v20\\security_v20\\applicationlogic\\managers\\empleadomanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EE2BFA9-C8A7-4787-A964-83ED79D3E5E4}|Security_v20\\Security_v20.csproj|solutionrelative:security_v20\\applicationlogic\\managers\\empleadomanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EE2BFA9-C8A7-4787-A964-83ED79D3E5E4}|Security_v20\\Security_v20.csproj|c:\\users\\01\\desktop\\repos\\proyectosita\\security_v20\\security_v20\\presentation\\formdesusoequipo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EE2BFA9-C8A7-4787-A964-83ED79D3E5E4}|Security_v20\\Security_v20.csproj|solutionrelative:security_v20\\presentation\\formdesusoequipo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EE2BFA9-C8A7-4787-A964-83ED79D3E5E4}|Security_v20\\Security_v20.csproj|c:\\users\\01\\desktop\\repos\\proyectosita\\security_v20\\security_v20\\presentation\\formdesusoequipo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1EE2BFA9-C8A7-4787-A964-83ED79D3E5E4}|Security_v20\\Security_v20.csproj|solutionrelative:security_v20\\presentation\\formdesusoequipo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EE2BFA9-C8A7-4787-A964-83ED79D3E5E4}|Security_v20\\Security_v20.csproj|c:\\users\\01\\desktop\\repos\\proyectosita\\security_v20\\security_v20\\presentation\\formdesusoequipo.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EE2BFA9-C8A7-4787-A964-83ED79D3E5E4}|Security_v20\\Security_v20.csproj|solutionrelative:security_v20\\presentation\\formdesusoequipo.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EE2BFA9-C8A7-4787-A964-83ED79D3E5E4}|Security_v20\\Security_v20.csproj|c:\\users\\01\\desktop\\repos\\proyectosita\\security_v20\\security_v20\\presentation\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EE2BFA9-C8A7-4787-A964-83ED79D3E5E4}|Security_v20\\Security_v20.csproj|solutionrelative:security_v20\\presentation\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1EE2BFA9-C8A7-4787-A964-83ED79D3E5E4}|Security_v20\\Security_v20.csproj|C:\\Users\\01\\Desktop\\repos\\proyectosita\\Security_v20\\security_v20\\presentation\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -30,59 +62,128 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\01\\Desktop\\repos\\proyectosita\\Security_v20\\Security_v20\\Presentation\\Form1.cs",
-              "RelativeDocumentMoniker": "Security_v20\\Presentation\\Form1.cs",
-              "ToolTip": "C:\\Users\\01\\Desktop\\repos\\proyectosita\\Security_v20\\Security_v20\\Presentation\\Form1.cs",
-              "RelativeToolTip": "Security_v20\\Presentation\\Form1.cs",
-              "ViewState": "AgIAAHAAAAAAAAAAAAAmwKEAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-18T18:57:59.846Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "RegistroEmpleadoService.cs",
-              "DocumentMoniker": "C:\\Users\\01\\Desktop\\repos\\proyectosita\\Security_v20\\Security_v20\\ApplicationLogic\\RegistroEmpleadoService.cs",
-              "RelativeDocumentMoniker": "Security_v20\\ApplicationLogic\\RegistroEmpleadoService.cs",
-              "ToolTip": "C:\\Users\\01\\Desktop\\repos\\proyectosita\\Security_v20\\Security_v20\\ApplicationLogic\\RegistroEmpleadoService.cs",
-              "RelativeToolTip": "Security_v20\\ApplicationLogic\\RegistroEmpleadoService.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAQwEEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-18T18:41:38.278Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "RegistroEmpleado.cs",
-              "DocumentMoniker": "C:\\Users\\01\\Desktop\\repos\\proyectosita\\Security_v20\\Security_v20\\DataAccess\\Models\\RegistroEmpleado.cs",
-              "RelativeDocumentMoniker": "Security_v20\\DataAccess\\Models\\RegistroEmpleado.cs",
-              "ToolTip": "C:\\Users\\01\\Desktop\\repos\\proyectosita\\Security_v20\\Security_v20\\DataAccess\\Models\\RegistroEmpleado.cs",
-              "RelativeToolTip": "Security_v20\\DataAccess\\Models\\RegistroEmpleado.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAArAAAAAAAAAA==",
+              "Title": "usoEquipamientoService.cs",
+              "DocumentMoniker": "C:\\Users\\01\\Desktop\\repos\\proyectosita\\Security_v20\\Security_v20\\ApplicationLogic\\usoEquipamientoService.cs",
+              "RelativeDocumentMoniker": "Security_v20\\ApplicationLogic\\usoEquipamientoService.cs",
+              "ToolTip": "C:\\Users\\01\\Desktop\\repos\\proyectosita\\Security_v20\\Security_v20\\ApplicationLogic\\usoEquipamientoService.cs",
+              "RelativeToolTip": "Security_v20\\ApplicationLogic\\usoEquipamientoService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-18T18:42:28.256Z",
+              "WhenOpened": "2025-07-25T06:05:55.169Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RegistroEmpleadoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\01\\Desktop\\repos\\proyectosita\\Security_v20\\Security_v20\\DataAccess\\Repositories\\RegistroEmpleadoRepository.cs",
+              "RelativeDocumentMoniker": "Security_v20\\DataAccess\\Repositories\\RegistroEmpleadoRepository.cs",
+              "ToolTip": "C:\\Users\\01\\Desktop\\repos\\proyectosita\\Security_v20\\Security_v20\\DataAccess\\Repositories\\RegistroEmpleadoRepository.cs",
+              "RelativeToolTip": "Security_v20\\DataAccess\\Repositories\\RegistroEmpleadoRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T06:03:23.611Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Form1.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\01\\Desktop\\repos\\proyectosita\\Security_v20\\Security_v20\\Presentation\\Form1.cs",
-              "RelativeDocumentMoniker": "Security_v20\\Presentation\\Form1.cs",
-              "ToolTip": "C:\\Users\\Vampel\\source\\repos\\Security_v20\\Security_v20\\Security_v20\\Presentation\\Form1.cs [Dise\u00F1o]",
-              "RelativeToolTip": "..\\..\\..\\..\\..\\Vampel\\source\\repos\\Security_v20\\Security_v20\\Security_v20\\Presentation\\Form1.cs [Dise\u00F1o]",
+              "Title": "RegistroEmpleado.cs",
+              "DocumentMoniker": "C:\\Users\\01\\Desktop\\repos\\proyectosita\\Security_v20\\Security_v20\\DataAccess\\Models\\RegistroEmpleado.cs",
+              "RelativeDocumentMoniker": "Security_v20\\DataAccess\\Models\\RegistroEmpleado.cs",
+              "ToolTip": "C:\\Users\\01\\Desktop\\repos\\proyectosita\\Security_v20\\Security_v20\\DataAccess\\Models\\RegistroEmpleado.cs",
+              "RelativeToolTip": "Security_v20\\DataAccess\\Models\\RegistroEmpleado.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-01T07:12:33.318Z"
+              "WhenOpened": "2025-07-25T05:56:13.884Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "usoEquipamiento.cs",
+              "DocumentMoniker": "C:\\Users\\01\\Desktop\\repos\\proyectosita\\Security_v20\\Security_v20\\DataAccess\\Models\\usoEquipamiento.cs",
+              "RelativeDocumentMoniker": "Security_v20\\DataAccess\\Models\\usoEquipamiento.cs",
+              "ToolTip": "C:\\Users\\01\\Desktop\\repos\\proyectosita\\Security_v20\\Security_v20\\DataAccess\\Models\\usoEquipamiento.cs",
+              "RelativeToolTip": "Security_v20\\DataAccess\\Models\\usoEquipamiento.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T05:56:13.61Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EmpleadoManager.cs",
+              "DocumentMoniker": "C:\\Users\\01\\Desktop\\repos\\proyectosita\\Security_v20\\Security_v20\\ApplicationLogic\\Managers\\EmpleadoManager.cs",
+              "RelativeDocumentMoniker": "Security_v20\\ApplicationLogic\\Managers\\EmpleadoManager.cs",
+              "ToolTip": "C:\\Users\\01\\Desktop\\repos\\proyectosita\\Security_v20\\Security_v20\\ApplicationLogic\\Managers\\EmpleadoManager.cs",
+              "RelativeToolTip": "Security_v20\\ApplicationLogic\\Managers\\EmpleadoManager.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABkAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T05:46:51.627Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FormDesusoEquipo.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\01\\Desktop\\repos\\proyectosita\\Security_v20\\Security_v20\\Presentation\\FormDesusoEquipo.Designer.cs",
+              "RelativeDocumentMoniker": "Security_v20\\Presentation\\FormDesusoEquipo.Designer.cs",
+              "ToolTip": "C:\\Users\\01\\Desktop\\repos\\proyectosita\\Security_v20\\Security_v20\\Presentation\\FormDesusoEquipo.Designer.cs",
+              "RelativeToolTip": "Security_v20\\Presentation\\FormDesusoEquipo.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T05:12:36.98Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FormDesusoEquipo.cs",
+              "DocumentMoniker": "C:\\Users\\01\\Desktop\\repos\\proyectosita\\Security_v20\\Security_v20\\Presentation\\FormDesusoEquipo.cs",
+              "RelativeDocumentMoniker": "Security_v20\\Presentation\\FormDesusoEquipo.cs",
+              "ToolTip": "C:\\Users\\01\\Desktop\\repos\\proyectosita\\Security_v20\\Security_v20\\Presentation\\FormDesusoEquipo.cs",
+              "RelativeToolTip": "Security_v20\\Presentation\\FormDesusoEquipo.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAuwCMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T05:11:29.313Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
+              "Title": "EquipamientoManager.cs",
+              "DocumentMoniker": "C:\\Users\\01\\Desktop\\repos\\proyectosita\\Security_v20\\Security_v20\\ApplicationLogic\\Managers\\EquipamientoManager.cs",
+              "RelativeDocumentMoniker": "Security_v20\\ApplicationLogic\\Managers\\EquipamientoManager.cs",
+              "ToolTip": "C:\\Users\\01\\Desktop\\repos\\proyectosita\\Security_v20\\Security_v20\\ApplicationLogic\\Managers\\EquipamientoManager.cs",
+              "RelativeToolTip": "Security_v20\\ApplicationLogic\\Managers\\EquipamientoManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T05:03:35.623Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\01\\Desktop\\repos\\proyectosita\\Security_v20\\Security_v20\\Presentation\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Security_v20\\Presentation\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\01\\Desktop\\repos\\proyectosita\\Security_v20\\Security_v20\\Presentation\\Form1.Designer.cs",
+              "RelativeToolTip": "Security_v20\\Presentation\\Form1.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T05:17:18.68Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\01\\Desktop\\repos\\proyectosita\\Security_v20\\Security_v20\\Program.cs",
               "RelativeDocumentMoniker": "Security_v20\\Program.cs",
@@ -90,7 +191,45 @@
               "RelativeToolTip": "Security_v20\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-28T19:25:41.036Z"
+              "WhenOpened": "2025-02-28T19:25:41.036Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FormDesusoEquipo.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\01\\Desktop\\repos\\proyectosita\\Security_v20\\Security_v20\\Presentation\\FormDesusoEquipo.cs",
+              "RelativeDocumentMoniker": "Security_v20\\Presentation\\FormDesusoEquipo.cs",
+              "ToolTip": "C:\\Users\\01\\Desktop\\repos\\proyectosita\\Security_v20\\Security_v20\\Presentation\\FormDesusoEquipo.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Security_v20\\Presentation\\FormDesusoEquipo.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T05:11:18.92Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\01\\Desktop\\repos\\proyectosita\\Security_v20\\Security_v20\\Presentation\\Form1.cs",
+              "RelativeDocumentMoniker": "Security_v20\\Presentation\\Form1.cs",
+              "ToolTip": "C:\\Users\\01\\Desktop\\repos\\proyectosita\\Security_v20\\Security_v20\\Presentation\\Form1.cs",
+              "RelativeToolTip": "Security_v20\\Presentation\\Form1.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAuwBcAAABkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-18T18:57:59.846Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\01\\Desktop\\repos\\proyectosita\\Security_v20\\Security_v20\\Presentation\\Form1.cs",
+              "RelativeDocumentMoniker": "Security_v20\\Presentation\\Form1.cs",
+              "ToolTip": "C:\\Users\\01\\Desktop\\repos\\proyectosita\\Security_v20\\Security_v20\\Presentation\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Security_v20\\Presentation\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T07:12:33.318Z",
+              "EditorCaption": " [Dise\u00F1o]"
             }
           ]
         }
